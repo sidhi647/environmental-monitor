@@ -6,3 +6,6 @@ OLED displays real-time measurements
 Custom PCB designed in KiCad
 
 SD-card data logging tested but not completed - SD card module is not connecting
+
+Case Study: https://docs.google.com/document/d/11CGSjNDkG4XqaT4TrCSuE653sdD-C-xeLsDyoSSBAY4/edit?usp=sharing
+
